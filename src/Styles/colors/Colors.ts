@@ -3,7 +3,7 @@
 
 export const Colors = {
     verdePrincipal: '#125c35',
-    rosaPrincipal: 'cc49ba',
+    rosaPrincipal: '#cc49ba',
     secondary: '#2ecc71',
     background: '#ecf0f1',
     textWhite: '#ffffff',

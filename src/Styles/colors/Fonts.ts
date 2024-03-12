@@ -1,24 +1,23 @@
 // Fontes
 import { Colors } from "./Colors"
 
-export const Fonts = {
-    // FontWeigth
-    title: '600'
-}
-
 export const fontFamilyDefault = {
-    fontFamily: 'montserrat'
+    regular: 'Montserrat_400Regular',
+    medium: 'Montserrat_500Medium',
+    semiBold: 'Montserrat_600SemiBold',
+    bold: 'Montserrat_700Bold',
 }
 
 export const FontSize = {
     smalest: 5,
     smal: 8,
-    medium: 14,
+    medium: 16,
     big: 18,
     bigest: 24,
   }
+
 export const titleBlack = {
+    
     fontSize: FontSize.big,
-    fontWeight: '700',
     color: Colors.textBlack,
 }
