@@ -1,5 +1,5 @@
 import { Image, ImageBackground, StyleSheet, Text, View } from "react-native";
-import { FontSize, fontFamilyDefault } from "../Styles/colors/Fonts";
+import { FontSize, fontFamilyDefault, textGray500 } from "../Styles/colors/Fonts";
 import { Colors } from "../Styles/colors/Colors";
 import { Align } from "@/Styles/colors/Align";
 

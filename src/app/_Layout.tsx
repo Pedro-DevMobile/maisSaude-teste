@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
     safeArea: {
         flex: 1,
         paddingTop: 32,
-        backgroundColor: Colors.cinza
+        backgroundColor: Colors.Cinza100
     },
 
 });
